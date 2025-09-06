@@ -1,4 +1,4 @@
-module ystore_pb
+module yblog_pb
 
 go 1.25.0
 

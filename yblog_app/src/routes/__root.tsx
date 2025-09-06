@@ -18,6 +18,7 @@ const RouteComponent = () => {
                 navigationLinks={[
                     { href: '/', label: 'Home' },
                     { href: '/about', label: 'About' },
+                    { href: '/login', label: 'Login' },
                 ]}
                 onNavItemClick={handleNavigation}
             />
