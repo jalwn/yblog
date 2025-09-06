@@ -14,6 +14,7 @@ func init() {
 		// restrict the list and view rules for record owners
 		collection.ListRule = types.Pointer("")
 		collection.ViewRule = types.Pointer("")
+		collection.ViewRule = types.Pointer("")
 
 		// add extra fields in addition to the default ones
 		collection.Fields.Add(

@@ -1,3 +1,5 @@
 bin
 .env
 pb_data
+bin/
+pb_data/
